@@ -121,3 +121,4 @@ This project is configured for easy deployment:
 
 
 ParkEasy - Smart Parking Reservation System | Repo Name: park-easy-mern-fullstack Tech Stack for Job Role: Full-Stack MERN Developer | Major Tech Stack: MongoDB, Express.js, React, Node.js, JWT Future Projects for Beginners: Movie Ticket Booking, Doctor's Appointment System, or Room Rental Platform.
+
