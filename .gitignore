@@ -2,7 +2,6 @@
 node_modules
 .pnp
 .pnp.js
-project_details.md
 # Testing
 coverage
 

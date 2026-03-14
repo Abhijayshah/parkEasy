@@ -118,3 +118,6 @@ This project is configured for easy deployment:
 -   `GET /api/places` - Get all parking places
 -   `GET /api/bookings/:emailId` - Get bookings for a user
 -   `POST /api/bookings/:emailId` - Create a new booking
+
+
+ParkEasy - Smart Parking Reservation System | Repo Name: park-easy-mern-fullstack Tech Stack for Job Role: Full-Stack MERN Developer | Major Tech Stack: MongoDB, Express.js, React, Node.js, JWT Future Projects for Beginners: Movie Ticket Booking, Doctor's Appointment System, or Room Rental Platform.
